@@ -26,6 +26,15 @@ I’m currently learning <b>Splunk cloud</b>,<b> PagerDuty</b>,<b> ELK Stack</b>
 </di>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown     2 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.03 %
+Terraform    2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+YAML         1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+Docker       1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+TypeScript   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+```
+
 <!--END_SECTION:waka-->
 
 
