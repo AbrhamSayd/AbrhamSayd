@@ -1,13 +1,19 @@
  ## Hello!, I'm Abrham Martinez
-*Devops Engineer / Software Engineer*
+*Devops Engineer / Software Engineer / cloud enthusiasm*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abrhammtz/)
 
-<p>
-I’m currently learning <b>Splunk cloud</b>,<b> PagerDuty</b>,<b> ELK Stack</b>
-</p>
+## Get in Touch
 
-<h3 align="left">Languages and Tools:</h3> 
+- 📫 How to reach me: [asayd.mtz@gmail.com](mailto:asayd.mtz@gmail.com)
+- 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abrhammtz/)
+
+
+## What I'm Working On
+
+- 🌱 I'm currently learning [Microservices arquitecture and technologies](https://microservices.io/).
+- 💡 I'm exploring [Kubernetes using Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/).
+
+<h3 align="left">Tools that I use:</h3> 
 <div style="padding-left: 10px;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp; 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp; 
@@ -26,6 +32,7 @@ I’m currently learning <b>Splunk cloud</b>,<b> PagerDuty</b>,<b> ELK Stack</b>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp; 
 </di>
 
+## My stats
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
