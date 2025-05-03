@@ -32,7 +32,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp; 
 </di>
 
+
 ## My stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbrhamSayd&theme=transparent&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&background=45%2C0947EB%2CB100C7&dates=EBEBEB&currStreakNum=EBEBEB&ring=EBEBEB&fire=FF5733&currStreakLabel=EBEBEB&sideNums=FFFFFF&sideLabels=EBEBEB)](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
