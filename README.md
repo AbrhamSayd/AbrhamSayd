@@ -4,7 +4,7 @@
 
 ## Get in Touch
 
-- 📫 How to reach me: [asayd.mtz@gmail.com](mailto:asayd.mtz@gmail.com)
+- 📫 How to reach me: [asayd.mtz@proton.me](mailto:asayd.mtz@proton.me)
 - 💼 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abrhammtz/)
 
 
