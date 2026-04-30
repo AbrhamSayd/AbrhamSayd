@@ -14,7 +14,7 @@
 - 💡 I'm exploring [Kubernetes using Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/).
 
 <h3 align="left">Tools that I use:</h3> 
-<div style="padding-left: 10px; display:flex;"> 
+<div style="display:flex; flex-direction: col; align-items: center; gap: 10px;"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp; 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp; 
